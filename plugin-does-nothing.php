@@ -6,7 +6,7 @@
  * Author: Nobody
  * License: GPL2
  *
- * Github Theme URI: https://github.com/parvus-vulpes/plugin-does-nothing
+ * Github Plugin URI: https://github.com/parvus-vulpes/plugin-does-nothing
  * Primary Branch: main
  *
  * @package Plugin_Does_Nothing
