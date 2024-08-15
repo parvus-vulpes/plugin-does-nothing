@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Plugin Does Nothing
- * Description: This is an empty plugin fo testing purposes and does nothing.
+ * Description: This is an empty plugin for testing purposes and does nothing.
  * Version: 1.0
  * Author: Nobody
  * License: GPL2
